@@ -1,4 +1,2 @@
 ### Hi there 👋
-I'm Mickael and I live in the UK, and I am learning Cloud Computing and DevOPS during my free time. I've been working for the past 12+ years as a Technical Project Manager/Snr. IT Consultant on various IT/Networks/Telecoms projects. However, I have developed lately a huge interest in Cloud Computing and DevOps technologies over PM roles. As a result, I am really keen on pursuing a hands-on cloud engineering role as a Junior AWS Cloud Engineer. 
-Without experience you cannot land on a job, but still you would need a job to build up experience. This is the classic chichen and egg stuff unfortunately!
-But, let's remain optimistic! I have AWS Solutions Architect Associate accreditation from Amazon Web Services (AWS), and I am currently studying and working on the following hands-on Cloud Engg projects to get more practical experiences.
+I'm Mickael and I live in the UK, and I am learning Cloud Computing and DevOPS during my free time. I have AWS Solutions Architect Associate accreditation from Amazon Web Services (AWS), and I am currently studying and working on the following hands-on Cloud Engg projects to get more practical experiences.
