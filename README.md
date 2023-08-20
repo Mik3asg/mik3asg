@@ -1,5 +1,5 @@
 # Mickael Asghar 👋
-I'm Mickael and I live in the UK. Passionnate about designing and building secure and resilient Cloud based-solutions and automation. 
+I'm Mickael and I live in the UK. Passionnate about designing, building and managing secure and resilient Cloud based-solutions, automation and DevOps practices. 
 
 ## Skills and Experience
 * ☁️ AWS Cloud Computing
