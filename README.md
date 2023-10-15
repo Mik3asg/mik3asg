@@ -1,5 +1,5 @@
-# Mickael Asghar 👋
-I'm Mickael and I love learning, designing, building and deploying cool stuff on Cloud Platforms, using automation and DevOps methodologies! 
+# Hi there, I am Mickael Asghar 👋
+I love learning, designing, building and deploying cool stuff on Cloud Platforms, using automation and DevOps methodologies! 
 
 ## Skills and Experience
 * ☁️ AWS Certified Cloud Practioner / AWS Certified Solutions Architect
