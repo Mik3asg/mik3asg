@@ -1,7 +1,6 @@
 # Hi there, I'm Mickael Asghar! 👋
 
-I'm a cloud enthusiast with a passion for designing, building, and deploying robust, highly-available, scalable, and secure solutions. 
-I thrive on leveraging automation and efficient CI/CD workflows to create innovative tech solutions.
+Cloud DevOps Engineer adept at implementing robust CI/CD pipelines, infrastructure as code (Terraform), and Kubernetes on AWS to deploy highly available applications. Passionate about automation, security, and scalability in the cloud.
 
 ## Certifications & Tech Stack
 
