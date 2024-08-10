@@ -1,6 +1,7 @@
 # Hi there, I'm Mickael Asghar! 👋
 
-Cloud DevOps Engineer adept at implementing robust CI/CD pipelines, infrastructure as code (Terraform), and Kubernetes on AWS to deploy highly available applications. Passionate about automation, security, and scalability in the cloud.
+A multilingual Cloud DevOps Engineer fluent in French, English, Urdu, and Spanish, with a strong passion for automation, security, and scalability. 
+Skilled in designing, testing, deploying, maintaining, and monitoring highly available, scalable, and secure cloud-native solutions.
 
 ## Certifications & Tech Stack
 
