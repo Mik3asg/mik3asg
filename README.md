@@ -1,18 +1,17 @@
 # Hi there, I'm Mickael Asghar! 👋
 
-A multilingual Cloud DevOps Engineer fluent in French, English, Urdu, and Spanish, with a strong passion for automation, security, and scalability. 
-Skilled in designing, testing, deploying, maintaining, and monitoring highly available, scalable, and secure cloud-native solutions.
+Cloud & DevOps Engineer. I design, build, and operate cloud 
+infrastructure for real production systems. AWS, Terraform, Docker, 
+Kubernetes, CI/CD, and Linux are my daily tools. Interested in 
+automation, platform reliability, and infrastructure security. 
+I document what I learn and what breaks at systemsgo.live.
 
-## Certifications & Tech Stack
+Multilingual — French, English, Urdu, and Spanish.
 
+## Certifications
 - ☁️ AWS Certified Cloud Practitioner / AWS Certified Solutions Architect
 - 🖥️ HashiCorp Certified Terraform Associate
 - 👨‍💻 Certified Kubernetes Application Developer
-- 🛠️ CI/CD Pipelines, Python, Bash Scripting, Ansible
 
 ## GitHub Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mik3asg)](https://github.com/anuraghazra/github-readme-stats)
-
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mik3asg)](https://github.com/anuraghazra/github-readme-stats)
